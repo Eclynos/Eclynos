@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am a 17 year old French student and this is a sample of my projects.
+I am a 17 year old French student and this is a sample of my projects.
 <!--
 **Eclynos/Eclynos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
