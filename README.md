@@ -2,7 +2,13 @@
 
 I am a 17 year old French student and this is a sample of my projects :
 
-[Parralel_worlds]
+[Parralel_worlds](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
+
+
+[Excitebike](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
+
+
+[Photocheap](https://github.com/Eclynos/School_projects/blob/Photocheap/README.md)
 <!--
 **Eclynos/Eclynos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
