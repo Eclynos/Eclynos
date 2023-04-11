@@ -2,15 +2,15 @@
 
 I am a 17 year old French student and this is a sample of my projects :
 
-[Parralel_worlds](https://github.com/Eclynos/School_projects/blob/Parralel_worlds/README.md)
+[Parralel_worlds](https://github.com/Eclynos/School_projects/tree/Parralel_worlds)
 
 ![Presentation](https://user-images.githubusercontent.com/121762901/230479899-c96ba1fa-2376-4931-a5b5-13643af97066.png)
 
-[Excitebike](https://github.com/Eclynos/School_projects/blob/Excitebike/README.md)
+[Excitebike](https://github.com/Eclynos/School_projects/tree/Excitebike)
 
 ![Presentation](https://user-images.githubusercontent.com/121762901/230473022-536095ec-d6fe-4c2c-b2c0-c4ae4da5365e.png)
 
-[Photocheap](https://github.com/Eclynos/School_projects/blob/Photocheap/README.md)
+[Photocheap](https://github.com/Eclynos/School_projects/tree/Photocheap)
 
 ![Presentation](https://user-images.githubusercontent.com/121762901/230481553-e7e67231-39c9-493d-8b8a-c9430074e966.png)
 
