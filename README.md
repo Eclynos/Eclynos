@@ -15,15 +15,13 @@ I am a 17 year old French student and this is a sample of my projects :
 ![Presentation](https://user-images.githubusercontent.com/121762901/230481553-e7e67231-39c9-493d-8b8a-c9430074e966.png)
 
 I created all of the graphics and animations for each of my projects.
-
-- 🌱 I’m currently learning Android Studio & Kotlin
+- 🔭 I’m currently working on a game with an isometric perspective using the Parralel_worlds game engine.
 <!--
 **Eclynos/Eclynos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
