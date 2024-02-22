@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 17 year old French student and this is a sample of my projects :
+I am a 18 year old French student and this is a sample of my projects :
 
 [Parralel_worlds](https://github.com/Eclynos/School_projects/tree/Parralel_worlds)
 
