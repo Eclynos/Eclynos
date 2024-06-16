@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a 18 year old French student and this is a sample of my projects :
+I am a French student and here is a sample of my projects :
+
+#### HIGH SCHOOL PROJECTS :
 
 [Parralel_worlds](https://github.com/Eclynos/School_projects/tree/Parralel_worlds)
 
@@ -15,6 +17,10 @@ I am a 18 year old French student and this is a sample of my projects :
 ![Presentation](https://user-images.githubusercontent.com/121762901/230481553-e7e67231-39c9-493d-8b8a-c9430074e966.png)
 
 I created all of the graphics and animations for each of my projects.
+
+#### UNIVERSITY PROJECTS :
+
+[CssForOrgReport](https://github.com/Eclynos/CssForOrgReport)
 
 - 🌱 I’m currently learning C
 <!--
