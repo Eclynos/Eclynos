@@ -2,6 +2,10 @@
 
 I am a French student and here is a sample of my projects :
 
+#### PERSONNAL PROJECTS :
+
+- [Tradebot](https://github.com/Eclynos/tradebot)
+
 #### UNIVERSITY PROJECTS :
 
 - [Sokoban](https://github.com/Eclynos/sokoban)
